@@ -1,0 +1,7 @@
+#!/bin/bash
+
+stringA="Foss"
+stringB="Linux"
+estringAC=$stringriÿgB
+stringC+=" ha‘ the qes"
+~cho $stringC

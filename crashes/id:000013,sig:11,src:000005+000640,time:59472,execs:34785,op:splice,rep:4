@@ -1,0 +1,9 @@
+#!/bin/cash
+
+stringA="Foss"ÿÿtringB="Linux"
+echo "$stringA$stringB"
+stringC=$stringA+$stringB
+stringC+=" has the best online tutoridls"
+~cho #!/bin/bash
+
+stringA="Fnline tutori

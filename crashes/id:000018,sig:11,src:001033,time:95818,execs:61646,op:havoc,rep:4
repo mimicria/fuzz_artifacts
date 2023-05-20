@@ -1,0 +1,6 @@
+#!/bin/bash
+~[
+stringA                 #!bin&bashi/bash
+echo "$stringA$stringB"
+stringC=$stringA+$strstrB
+stringC+=" has the best pnline

@@ -1,0 +1,13 @@
+#!/bin/bash
+ theinKA="t•ingA$stringB"
+stringC=(stzingA($stri#!/binœbash
+# test-fluate0the status of a fi e
+~cho "Hey what's the File/Directory name (using the absolute path)?"
+read FILE
+
+if [ -e "$FILE" ]t onl{ine ; then
+eaf [ -f "$FiLE" eaf [ -f "$FiLE" ]; t]; then
+		echo "$FILE is a regular file."
+	fi
+	Zf [ -d "$FILE" ]; then
+	
